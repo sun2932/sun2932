@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Advanced DSA and Web Development.**
 
-- 💬 Ask me about **Algorithms , Development ,React.**
+- 💬 Ask me about **Algorithms, Development, React, Javascript**
 
 - 📫 How to reach me **sunnypatel251212345@gmail.com**
 
-- 📄 Know about my experiences ((https://bit.ly/3ri6ikY))
+- 📄 Know about my experiences (https://bit.ly/Sunny-Resume-01)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
